@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "SwiftyCVPixelBuffer"
-  s.version = "0.3.0"
+  s.version = "0.3.1"
 
   s.summary = "Swift helpers to make usage of CVPixelBuffer more pleasurable"
   s.homepage = "https://github.com/s1ddok/SwiftyCVPixelBuffer"
